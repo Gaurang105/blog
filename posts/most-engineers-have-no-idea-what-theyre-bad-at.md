@@ -13,7 +13,6 @@ But what I *am* good at is adapting. Whatever the task is, frontend, backend, in
 
 And for a while, that felt like enough.
 
----
 
 ## The Problem with "Just Keep Learning"
 
@@ -25,7 +24,6 @@ And you actually listen. You start that system design course. You read those blo
 
 But here's the problem. It's too wide of an approach. You're trying to boil the entire ocean. You don't have months anymore to casually get good at things. It's a sprint race out there with the distance of a marathon. If you're spreading yourself across everything, you're not actually getting meaningfully better at anything.
 
----
 
 ## The Feeling of "I Can Do More"
 
@@ -35,7 +33,6 @@ There's just too much to learn every single day. Too many directions to go. And 
 
 I was stuck in that loop for a while.
 
----
 
 ## A Conversation That Changed My Thinking
 
@@ -55,7 +52,6 @@ But as engineers? We just... vibe it. "Yeah I think I'm decent at React." "I'm o
 
 That's not a growth plan. That's a wish list.
 
----
 
 ## So I Quantified Myself
 
@@ -83,7 +79,6 @@ I was making the same type of mistakes on repeat. Not big, codebase-breaking mis
 
 And until I saw them all laid out together, categorized and quantified, I genuinely had no idea.
 
----
 
 ## From Report to Action Plan
 
@@ -95,7 +90,6 @@ For every repeated mistake, I wrote down a concrete rule for myself. For every g
 
 The beauty of this approach? It's not generic advice. It's not "learn system design" or "read Clean Code." It's hyper-specific to *my* actual weaknesses, based on *my* actual code, reviewed by *my* actual team. Your report will look completely different from mine. And that's the whole point.
 
----
 
 ## Why This Works Better Than Generic Advice
 
@@ -113,7 +107,6 @@ You can't fix what you can't see. And you can't see it if you're not measuring i
 
 Fetching your PR comments and analyzing them gives you a mirror. An honest one. Not filtered through your own perception of yourself, but based on what your team, the people who actually read your code every day, is telling you.
 
----
 
 ## The Takeaway
 
